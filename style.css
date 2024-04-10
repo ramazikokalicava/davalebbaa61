@@ -1,0 +1,24 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0px;
+}
+div{
+    border: solid 1px grey;
+    width: 550px;
+    height: 550px;
+    margin-top: 16px ;
+    margin-left: 15px ;
+    padding-top: 70px;
+    padding-left: 120px;
+} 
+p{
+    color: gray;  
+    
+}
+img{
+  width:305px ;
+  height:226px ; 
+}
+
